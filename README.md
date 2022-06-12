@@ -1,7 +1,7 @@
 # Uso de Azure QNA Maker, para hacer un Bot de preguntas y respuestas
 En este repositorio tenemos una demostración del uso de Azure QNA Maker, para la realización de un Bot, con preguntas y respuestas, además de como vincularlo con Microsoft Teams.
 
-![Microsoft-Azure-QNA-Maker](https://www.outsystems.com/Forge_BL/rest/ComponentThumbnail/GetURL_ComponentThumbnail?ProjectImageId=30779)
+![Microsoft-Azure-QNA-Maker](https://www.outsystems.com/Forge_CW/_image.aspx/Q8LvY--6WakOw9afDCuuGRBa_3dHaSU8KKR8zuRtAOY=/azure-qna-maker-connector-2022-06-10%2008-03-50)
 
 ---
 
